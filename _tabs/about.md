@@ -8,8 +8,6 @@ order: 4
 
 > 电话：`XXXX-XXXX`       邮箱：`yabiyn_m@qq.com`
 
-<img src="assets/img/avatar_jasper.jpg" alt="avatar">
-
 ## 基本信息
 
 ### 西北民族大学 - 本科 - 软件工程专业   (2008.02 - 2024.06)
