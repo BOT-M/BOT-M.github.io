@@ -8,7 +8,7 @@ order: 4
 
 > 电话：`XXXX-XXXX`       邮箱：`yabiyn_m@qq.com`
 
-<img src="assets/img/avatar.jpg" alt="avatar">
+<img src="assets/img/avatar_jasper.jpg" alt="avatar">
 
 ## 基本信息
 
