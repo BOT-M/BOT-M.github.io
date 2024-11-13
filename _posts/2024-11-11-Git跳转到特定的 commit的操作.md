@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git的Commit操作
+title: Git跳转到特定的 commit的操作
 date: 2024-11-11
 categories:
   - 程序开发
